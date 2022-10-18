@@ -12,3 +12,30 @@
 - 10- valores_truthy_e_falsy
 - 11.1- estruturas_de_repeticao (while loop)
 - 11.2- estruturas_de_repeticao (for loop)
+- 12 - break_continue_pass
+- 13- loops_aninhados
+- 14- Listas
+- 15- Listas Multidimensionais
+- 16- Tuplas
+- 17- Sets
+- 18- Dicionarios
+- 19.1 - Operador de indexação (básico)
+- 19.2 - Operadores de Indexação (avançado)
+- 20- Funções
+- 21- Instrução 'return'
+- 22- Argumentos nomeados (KEYWORD ARGUMENTS)
+- 23- Chamas de Função Aninhadas
+- 24- Escopo de variáveis
+- 25- args
+- 26- kwargs
+- 27- Métodos de strings
+- 28- Métodos Matemáticos
+- 29- Formatando Strings com String.format()
+- 30- Números Aleatórios
+- 31 - Tratando exceções
+- 32 - Detecção de arquivos
+- 33- Leitura de arquivos
+- 34- Escrita de arquivos
+- 35- Cópia de arquivos
+- 36- Movendo arquivos
+- 37- Deleção de arquivos
