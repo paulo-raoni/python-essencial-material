@@ -1,5 +1,7 @@
 # Material da série Python Essencial do canal Brazilian Dev
 
+### [Link da série no YouTube](https://www.youtube.com/playlist?list=PL-R1FQNkywO4WVALIsKk_yKaOBE520ul-)
+
 - 1- hello_world
 - 2- extensoes_para_vscode
 - 3- variaveis
