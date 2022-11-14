@@ -1,6 +1,6 @@
 capitais = {'RJ': 'Rio de Janeiro',
             'SP': 'São Paulo',
-            'BH': 'Belo Horizonte',
+            'MG': 'Belo Horizonte',
             'ES': 'Vitória'}
 
 # print(capitais.get('BA'))
