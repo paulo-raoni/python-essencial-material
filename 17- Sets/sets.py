@@ -1,7 +1,7 @@
 linguagens = {"javascript","java","c#" }
 banco_de_dados = {"mysql", "sql server", "mongodb", "dynamo", "c#"}
    
-# linguagens.add("c++")
+linguagens.add("c++")
 # linguagens.remove("java")
 # linguagens.clear()
 
